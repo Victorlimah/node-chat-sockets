@@ -1,0 +1,14 @@
+{
+  "name": "chat-sockets",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "ServerTCP.js",
+  "scripts": {
+    "start:server": "node ServerTCP.js",
+    "start:client": "node ClientTCP.js"
+  },
+  "keywords": [],
+  "author": "Victor Lima",
+  "license": "ISC"
+}
